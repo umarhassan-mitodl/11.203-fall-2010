@@ -5,6 +5,8 @@ description: This resource contains information about utility functions, indiffe
 file: /courses/11-203-microeconomics-fall-2010/4b2a0bd739edb6ee032f62846b6e2965_MIT11_203F10_handout2.pdf
 file_size: 111157
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

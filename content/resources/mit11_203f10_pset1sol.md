@@ -7,6 +7,8 @@ description: This resource contains solution of the 6 problems about a shovel re
 file: /courses/11-203-microeconomics-fall-2010/ae681cbd7657bb076f0eacf089148f86_MIT11_203F10_pset1sol.pdf
 file_size: 271419
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

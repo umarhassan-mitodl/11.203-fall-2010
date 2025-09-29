@@ -3,6 +3,8 @@ content_type: page
 description: This section provides class handouts used during math review sessions
   led by teaching assistants each week to help students get a better understanding
   of the math used in the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Math Review

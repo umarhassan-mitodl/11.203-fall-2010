@@ -5,6 +5,8 @@ description: This resource contains information about consumer and producer surp
 file: /courses/11-203-microeconomics-fall-2010/e955d8a580f932b1afeb37eaca3dc5ae_MIT11_203F10_handout6.pdf
 file_size: 108036
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

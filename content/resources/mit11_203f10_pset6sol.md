@@ -7,6 +7,8 @@ description: "This resource contains solution about problems over the same four 
 file: /courses/11-203-microeconomics-fall-2010/7384506ca8c987bb292479fd50677a71_MIT11_203F10_pset6sol.pdf
 file_size: 69725
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

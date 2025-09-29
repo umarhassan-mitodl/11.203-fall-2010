@@ -5,6 +5,8 @@ description: This resource contains information about production functions, isoq
 file: /courses/11-203-microeconomics-fall-2010/4adee271645488dca510f5a256b2f109_MIT11_203F10_handout5.pdf
 file_size: 105792
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

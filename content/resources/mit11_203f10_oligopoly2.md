@@ -6,6 +6,8 @@ description: "Lecture presentation on kinked demand curve theory, strategy and c
 file: /courses/11-203-microeconomics-fall-2010/cedca6817e8582b38b0be71d5ccddb9e_MIT11_203F10_oligopoly2.pdf
 file_size: 190720
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
