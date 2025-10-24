@@ -5,8 +5,6 @@ description: This resource contains information about exam preparation multiple 
 file: /courses/11-203-microeconomics-fall-2010/b371b359bba883c3aee9dcf67809490a_MIT11_203F10_examprepsol.pdf
 file_size: 132239
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
